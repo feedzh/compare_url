@@ -1,0 +1,26 @@
+{
+  "name": "compare_url",
+  "version": "0.0.1",
+  "description": "This module is helping to compare and resolve urls",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feedzh/url_compare.git"
+  },
+  "keywords": [
+    "node",
+    "url"
+  ],
+  "author": "Reijo Võsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedzh/url_compare/issues"
+  },
+  "dependencies": {
+   "url":"",
+   "string":""
+  }
+}
